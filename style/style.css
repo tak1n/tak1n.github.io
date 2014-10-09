@@ -36,6 +36,14 @@ nav.navbar {
     border-radius: 2px;
 }
 
+.body-container ul {
+    list-type: none;
+}
+
+.body-container ul li {
+    font-size: 20px;
+}
+
 .social li {
     height: 32px;
 }
