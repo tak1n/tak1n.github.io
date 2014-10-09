@@ -37,7 +37,7 @@ nav.navbar {
 }
 
 .body-container ul {
-    list-type: none;
+    list-style-type: none;
 }
 
 .body-container ul li {
