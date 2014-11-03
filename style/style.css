@@ -36,6 +36,10 @@ nav.navbar {
     border-radius: 2px;
 }
 
+.body-container h1 {
+    font-size: 35px;
+}
+
 .body-container ul {
     list-style-type: none;
 }
@@ -75,4 +79,50 @@ nav.navbar {
 
 .gplus {
     background: url(/images/gplus.png);
+}
+
+.skills li {
+    float: left;
+    margin-right: 30px;
+    margin-top: 20px;
+}
+
+.skills li:last-child {
+    margin-right: 0px;
+}
+
+.skills li a {
+    display: block;
+    text-indent: -9999px;
+    background-repeat: no-repeat;
+    height: 64px;
+    width: 64px;
+}
+
+.html5 {
+    background: url(/images/html5-02.png);
+}
+
+.css3 {
+    background: url(/images/css3-02.png);
+}
+
+.php {
+    background: url(/images/prog-php02.png);
+}
+
+.ruby {
+    background: url(/images/prog-ruby.png);
+}
+
+.js {
+    background: url(/images/prog-js02.png);
+}
+
+.symfony {
+    background: url(/images/prog-symfony.png);
+}
+
+.rails {
+    background: url(/images/prog-rails.png);
 }
