@@ -6,6 +6,8 @@
         <link rel="stylesheet" href="/style/style.css" media="screen" />
         <script src="/js/jquery-2.1.1.min.js"></script>
         <script src="/js/bootstrap.min.js"></script>
+        <script type="text/javascript" src="/js/tipped.js"></script>
+        <link rel="stylesheet" type="text/css" href="/style/tipped.css"/>
     </head>
 
     <body>
@@ -31,13 +33,20 @@
                     </ul>
                     <ul class="nav navbar-nav navbar-right">
                         <li><a href="/skills.html">Skills</a></li>
-                        <li><a href="https://github.com/bennyklotz?tab=repositories">Projects</a></li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Projects <span class="caret"></span></a>
+                            <ul class="dropdown-menu" role="menu">
+                                <li><a href="https://github.com/cobalt-org/cobalt.rs">Cobalt.rs</a></li>
+                                <li><a href="https://github.com/bennyklotz?tab=repositories">Github</a></li>
+                            </ul>
+                        </li>
+
                         <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Contributing to <span class="caret"></span></a>
                             <ul class="dropdown-menu" role="menu">
                                 <li><a href="https://github.com/rubinius/rubinius">Rubinius</a></li>
                                 <li><a href="https://github.com/lotus/lotus">Lotus</a></li>
-                                <li><a href="https://github.com/nickel-org/nickel.rs">Nickel</a></li>
+                                <li><a href="https://github.com/nickel-org/nickel.rs">Nickel.rs</a></li>
                             </ul>
                         </li>
 
@@ -56,15 +65,22 @@
         <div class="center-block body-container jumbotron text-center">
             <h1>Skills</h1>
             <ul class="skills">
-                <li><a href="#" class="html5">HTML5</a></li>
-                <li><a href="#" class="css3">CSS3</a></li>
-                <li><a href="#" class="php">PHP</a></li>
-                <li><a href="#" class="ruby">Ruby</a></li>
-                <li><a href="#" class="js">JS</a></li>
-                <li><a href="#" class="symfony">Symfony2</a></li>
-                <li><a href="#" class="rails">Rails</a></li>
+                <li><a href="http://de.wikipedia.org/wiki/HTML5" class="html5 mytooltip" title="HTML5">HTML5</a></li>
+                <li><a href="http://de.wikipedia.org/wiki/Cascading_Style_Sheets#CSS3" class="css3 mytooltip" title="CSS3">CSS3</a></li>
+                <li><a href="http://php.net/" class="php mytooltip" title="PHP">PHP</a></li>
+                <li><a href="https://www.ruby-lang.org" class="ruby mytooltip" title="Ruby">Ruby</a></li>
+                <li><a href="http://en.wikipedia.org/wiki/JavaScript" class="js mytooltip" title="Javascript">JS</a></li>
+                <li><a href="http://symfony.com/" class="symfony mytooltip" title="Symfony2">Symfony2</a></li>
+                <li><a href="http://rubyonrails.org/" class="rails mytooltip" title="Rails">Rails</a></li>
+                <li><a href="http://rust-lang.org/" class="rust mytooltip" title="Rust">Rust</a></li>
             </ul>
             <div style="clear:both;"></div>
         </div>
+
+        <script type="text/javascript">
+            $(document).ready(function() {
+                Tipped.create('.mytooltip');
+            });
+        </script>
     </body>
 </html>
