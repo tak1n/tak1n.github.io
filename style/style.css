@@ -100,15 +100,15 @@ nav.navbar {
 }
 
 .html5 {
-    background: url(/images/html5-02.png);
+    background: url(/images/html5.png);
 }
 
 .css3 {
-    background: url(/images/css3-02.png);
+    background: url(/images/css3.png);
 }
 
 .php {
-    background: url(/images/prog-php02.png);
+    background: url(/images/prog-php.png);
 }
 
 .ruby {
@@ -116,7 +116,7 @@ nav.navbar {
 }
 
 .js {
-    background: url(/images/prog-js02.png);
+    background: url(/images/prog-js.png);
 }
 
 .symfony {
@@ -137,4 +137,12 @@ nav.navbar {
 
 .angular {
     background: url(/images/angularjs.png);
+}
+
+.haskell {
+    background: url(/images/prog-haskell.png);
+}
+
+.backbone {
+    background: url(/images/backbone.png);
 }
