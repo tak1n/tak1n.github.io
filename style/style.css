@@ -135,6 +135,10 @@ nav.navbar {
     background: url(/images/lotus.png);
 }
 
+.rom {
+    background: url(/images/rom.png);
+}
+
 .angular {
     background: url(/images/angularjs.png);
 }
