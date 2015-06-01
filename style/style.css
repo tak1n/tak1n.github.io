@@ -127,6 +127,10 @@ nav.navbar {
     background: url(/images/prog-rails.png);
 }
 
+.cpp {
+    background: url(/images/cpp.png);
+}
+
 .rust {
     background: url(/images/rust.png);
 }
