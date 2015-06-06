@@ -135,6 +135,18 @@ nav.navbar {
     background: url(/images/rust.png);
 }
 
+.clang {
+    background: url(/images/c.png);
+}
+
+.erlang {
+    background: url(/images/erlang.png);
+}
+
+.clojure {
+    background: url(/images/clojure.png);
+}
+
 .lotus {
     background: url(/images/lotus.png);
 }
