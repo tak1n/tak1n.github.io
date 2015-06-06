@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Hi I'm Benny Klotz a developer</title>
+        <link rel="stylesheet" href="/style/bootstrap.min.css" media="screen" />
+        <link rel="stylesheet" href="/style/style.css" media="screen" />
+        <script src="/js/jquery-2.1.1.min.js"></script>
+        <script src="/js/bootstrap.min.js"></script>
+        <script type="text/javascript" src="/js/tipped.js"></script>
+        <link rel="stylesheet" type="text/css" href="/style/tipped.css"/>
+    </head>
+
+    <body>
+        <nav class="navbar navbar-default" role="navigation">
+            <div class="container-fluid">
+                <!-- Brand and toggle get grouped for better mobile display -->
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="/">Benny Klotz</a>
+                </div>
+
+                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                    <ul class="nav navbar-nav social">
+                        <li><a href="http://www.twitter.com/tak1n" title="Twitter" class="twitter">Twitter</a></li>
+                        <li><a href="http://www.github.com/tak1n" title="Github" class="github">Github</a></li>
+                        <li><a href="http://at.linkedin.com/pub/benjamin-klotz/53/741/913/" title="LinkedIn" class="linkedin">LinkedIn</a></li>
+                        <li><a href="https://plus.google.com/u/0/116478019038959023582" title="Google+" class="gplus">Google+</a></li>
+                    </ul>
+                    <ul class="nav navbar-nav navbar-right">
+                        <li><a href="/technology.html">Technology</a></li>
+                        <li><a href="/learning.html">Learning</a></li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Projects <span class="caret"></span></a>
+                            <ul class="dropdown-menu" role="menu">
+                                <li><a href="https://github.com/cobalt-org/cobalt.rs">Cobalt.rs</a></li>
+                                <li><a href="https://github.com/bennyklotz?tab=repositories">Github</a></li>
+                            </ul>
+                        </li>
+
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Contributing to <span class="caret"></span></a>
+                            <ul class="dropdown-menu" role="menu">
+                                <li><a href="https://github.com/rubinius/rubinius">Rubinius</a></li>
+                                <li><a href="https://github.com/lotus/lotus">Lotus</a></li>
+                                <li><a href="https://github.com/rom-rb/rom">ROM</a></li>
+                                <li><a href="https://github.com/nickel-org/nickel.rs">Nickel.rs</a></li>
+                            </ul>
+                        </li>
+
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">User Groups <span class="caret"></span></a>
+                            <ul class="dropdown-menu" role="menu">
+                                <!--<li><a href="http://tirolwebdev.github.io">TirolWebDev</a></li>-->
+                                <li><a href="http://www.it-syndikat.at">IT Syndikat Innsbruck</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+
+        <div class="center-block body-container jumbotron text-center">
+            <h3>Learning roadmap</h3>
+            <ul class="skills">
+              <li><a href="http://en.wikipedia.org/wiki/C_%28programming_language%29" title="C" class="clang mytooltip">C</a></li>
+              <li><a href="http://www.rust-lang.org" title="Rust" class="rust mytooltip">Rust</a></li>
+              <li><a href="http://www.erlang.org/" title="Erlang" class="erlang mytooltip">Erlang</a></li>
+              <li><a href="http://www.haskell.org" title="Haskell" class="haskell mytooltip">Haskell</a></li>
+              <li><a href="http://www.clojure.org" title="Clojure" class="clojure mytooltip">Clojure</a></li>
+            </ul>
+            <div style="clear:both;"></div>
+        </div>
+
+        <script type="text/javascript">
+            $(document).ready(function() {
+                Tipped.create('.mytooltip');
+            });
+        </script>
+    </body>
+</html>
