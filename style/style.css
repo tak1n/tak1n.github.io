@@ -107,6 +107,14 @@ nav.navbar {
     background: url(/images/css3.png);
 }
 
+.sass {
+    background: url(/images/sass.png);
+}
+
+.less {
+    background: url(/images/less.png);
+}
+
 .php {
     background: url(/images/prog-php.png);
 }
