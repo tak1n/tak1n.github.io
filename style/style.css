@@ -103,6 +103,10 @@ nav.navbar {
     background: url(/images/html5.png);
 }
 
+.haml {
+    background: url(/images/haml.png);
+}
+
 .css3 {
     background: url(/images/css3.png);
 }
