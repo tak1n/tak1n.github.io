@@ -123,6 +123,10 @@ nav.navbar {
     background: url(/images/prog-php.png);
 }
 
+.rubinius {
+    background: url(/images/rubinius.png);
+}
+
 .ruby {
     background: url(/images/prog-ruby.png);
 }
