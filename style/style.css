@@ -179,6 +179,10 @@ nav.navbar {
     background: url(/images/prog-haskell.png);
 }
 
+.react {
+    background: url(/images/react.png);
+}
+
 .backbone {
     background: url(/images/backbone.png);
 }
