@@ -135,6 +135,10 @@ nav.navbar {
     background: url(/images/prog-js.png);
 }
 
+.coffee {
+    background: url(/images/prog-coffee.png);
+}
+
 .symfony {
     background: url(/images/prog-symfony.png);
 }
