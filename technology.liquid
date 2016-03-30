@@ -1,0 +1,31 @@
+extends: default.liquid
+
+---
+
+<div class="center-block body-container jumbotron text-center">
+  <h3>Technology Stack I use</h3>
+  <ul class="skills">
+    <li><a href="http://wikipedia.org/wiki/HTML5" class="html5 mytooltip" title="HTML5">HTML5</a></li>
+    <li><a href="http://haml.info/" class="haml mytooltip" title="Haml">Haml</a></li>
+    <li><a href="http://wikipedia.org/wiki/Cascading_Style_Sheets#CSS3" class="css3 mytooltip" title="CSS3">CSS3</a></li>
+    <li><a href="http://sass-lang.com/" class="sass mytooltip" title="Sass">Sass</a></li>
+    <li><a href="http://rubini.us/" class="rubinius mytooltip" title="Rubinius">Rubinius</a></li>
+    <li><a href="https://www.ruby-lang.org" class="ruby mytooltip" title="Ruby">Ruby</a></li>
+    <li><a href="http://rubyonrails.org/" class="rails mytooltip" title="Rails">Rails</a></li>
+    <div style="clear: both;"></div>
+  </ul>
+  <br />
+  <h3>No longer used technology</h3>
+  <ul class="skills">
+    <li><a href="http://php.net/" class="php mytooltip" title="PHP">PHP</a></li>
+    <li><a href="http://symfony.com/" class="symfony mytooltip" title="Symfony2">Symfony2</a></li>
+    <li><a href="http://lesscss.org/" class="less mytooltip" title="Less">Less</a></li>
+  </ul>
+  <div style="clear:both;"></div>
+</div>
+
+<script type="text/javascript">
+$(document).ready(function() {
+    Tipped.create('.mytooltip');
+    });
+</script>
