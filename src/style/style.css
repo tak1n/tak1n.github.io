@@ -131,6 +131,10 @@ nav.navbar {
     background: url(/images/prog-ruby.png);
 }
 
+.dryrb {
+  background: url(/images/dryrb.png);
+}
+
 .js {
     background: url(/images/prog-js.png);
 }
