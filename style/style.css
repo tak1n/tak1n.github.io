@@ -194,3 +194,11 @@ nav.navbar {
 .backbone {
     background: url(/images/backbone.png);
 }
+
+.elastic {
+    background: url(/images/elasticsearch.png);
+}
+
+.postgresql {
+    background: url(/images/postgresql.png);
+}
