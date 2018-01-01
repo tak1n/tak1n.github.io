@@ -1,0 +1,31 @@
+source: src/
+destination: "."
+include_drafts: false
+default:
+  excerpt_separator: "\n\n"
+  is_draft: false
+pages:
+  default: {}
+posts:
+  title: ~
+  description: ~
+  dir: posts
+  drafts_dir: _drafts
+  order: Desc
+  rss: ~
+  jsonfeed: ~
+  default: {}
+site:
+  title: ~
+  description: ~
+  base_url: ~
+  data: ~
+template_extensions:
+  - md
+  - liquid
+ignore: []
+syntax_highlight:
+  theme: "base16-ocean.dark"
+assets:
+  sass:
+    style: Nested
