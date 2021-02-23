@@ -187,6 +187,10 @@ nav.navbar {
     background: url(/images/typescript.png);
 }
 
+.nodejs {
+    background: url(/images/nodejs.png);
+}
+
 .haskell {
     background: url(/images/prog-haskell.png);
 }
