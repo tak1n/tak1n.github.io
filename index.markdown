@@ -30,4 +30,4 @@ Nowadays I am learning more JavaScript and [TypeScript](https://www.typescriptla
 Besides loving to learn about new technologies or gaining more in depth knowledege about already used technologies I have a big passion for sports and fitness.
 I love long full day hiking trips, do 2-3 runs per week and love getting more in shape after years of living a unhealthy lifestyle.
 
-If you are interested about my sport activities consider to follow me on [Strava](https://www.strava.com/athletes/70701998) or [Instagram](https://www.instagram.com/bk_cupra/).
+If you are interested in my sport activities consider to follow me on [Strava](https://www.strava.com/athletes/70701998) or [Instagram](https://www.instagram.com/bk_cupra/).
