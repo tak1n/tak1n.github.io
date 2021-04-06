@@ -28,9 +28,9 @@ twitter_username: tak1n
 github_username:  tak1n
 
 # Build settings
-# theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal
 # theme: jekyll-theme-midnight
-remote_theme: pages-themes/midnight
+# remote_theme: pages-themes/midnight
 plugins:
   - jekyll-feed
 
