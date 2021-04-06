@@ -11,7 +11,7 @@ My heart is beating for back-end, DevOps and Linux.
 
 I focus on delivering docker based solutions while adhering to clean code principles and practicing TDD.
 
-## Core skills
+### Core skills
 
 - Ruby
 - JavaScript/TypeScript
