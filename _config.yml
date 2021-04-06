@@ -21,7 +21,6 @@
 title: Benjamin Klotz
 email: benny.klotz92@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi, my name is Benjamin. I'm a software engineer based in Tyrol, Austria.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.bennyklotz.at" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: tak1n
