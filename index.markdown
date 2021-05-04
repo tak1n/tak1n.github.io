@@ -15,13 +15,15 @@ I focus on delivering docker based solutions while adhering to clean code princi
 
 - Ruby
 - JavaScript/TypeScript
+- NodeJS
 - PostgreSQL
 - MongoDB
+- Redis
 - Docker
 - Kubernetes
 
 I started my career with PHP where I mainly worked with [Symfony](https://symfony.com/) and [eZ Publish](https://github.com/ezsystems/ezpublish-community). Then moved on to [Ruby](https://www.ruby-lang.org/en/) and mainly using [Rails](https://rubyonrails.org/) as framework of choice.
-Nowadays I am learning more JavaScript and [TypeScript](https://www.typescriptlang.org/) which I am using together with [NodeJS](https://nodejs.dev/) on the back-end.
+Nowadays I am learning more JavaScript and [TypeScript](https://www.typescriptlang.org/) which I am using together with [NodeJS](https://nodejs.dev/) on the back-end by leveraging [NestJS](https://nestjs.com) as framework of choice.
 
 [Docker](https://www.docker.com/) and [Kubernetes](https://kubernetes.io/) are a constant companion as well and my knowledge of it increase every day I have the chance to use it.
 
