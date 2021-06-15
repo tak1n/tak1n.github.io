@@ -6,7 +6,7 @@ layout: default
 ---
 # Coding
 
-I am Benjamin Klotz, a Software Engineer based in Tyrol, Austria with 5 years of experience.
+Hi, my name is Benjamin Klotz. I'm a Software Engineer based in Tyrol, Austria with 7 years of experience.
 My heart is beating for back-end, DevOps and Linux.
 
 I focus on delivering docker based solutions while adhering to clean code principles and practicing TDD.
@@ -14,18 +14,21 @@ I focus on delivering docker based solutions while adhering to clean code princi
 ### Core skills
 
 - Ruby
-- JavaScript/TypeScript
+- Ruby on Rails
+- TypeScript
 - NodeJS
+- NestJS
 - PostgreSQL
 - MongoDB
 - Redis
 - Docker
 - Kubernetes
+- CI/CD
 
-I started my career with PHP where I mainly worked with [Symfony](https://symfony.com/) and [eZ Publish](https://github.com/ezsystems/ezpublish-community). Then moved on to [Ruby](https://www.ruby-lang.org/en/) and mainly using [Rails](https://rubyonrails.org/) as framework of choice.
-Nowadays I am learning more JavaScript and [TypeScript](https://www.typescriptlang.org/) which I am using together with [NodeJS](https://nodejs.dev/) on the back-end by leveraging [NestJS](https://nestjs.com) as framework of choice.
+I started my career with [PHP](https://www.php.net/) where I mainly worked with [Symfony](https://symfony.com/) and [eZ Publish](https://github.com/ezsystems/ezpublish-community). Then moved on to [Ruby](https://www.ruby-lang.org/en/) and mainly using [Rails](https://rubyonrails.org/) as framework of choice.
+Nowadays I am learning more JavaScript and [TypeScript](https://www.typescriptlang.org/) which I am using together with [NodeJS](https://nodejs.dev/) on the back-end by leveraging [NestJS](https://nestjs.com).
 
-[Docker](https://www.docker.com/) and [Kubernetes](https://kubernetes.io/) are a constant companion as well and my knowledge of it increase every day I have the chance to use it.
+[Docker](https://www.docker.com/) and [Kubernetes](https://kubernetes.io/) are a constant companion as well and my knowledge of it increase every day I have the chance of using it.
 
 # Non coding
 
