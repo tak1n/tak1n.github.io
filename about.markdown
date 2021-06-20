@@ -26,6 +26,7 @@ Web-development (mostly back-end), DevOps,
 - TypeScript/NodeJs (★)
 - Rust (★)
 - Go (★)
+- PHP (★★) - quite rusty as I didn't work with it for a very long time
 
 ### Databases
 
