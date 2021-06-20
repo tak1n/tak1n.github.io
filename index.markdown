@@ -21,7 +21,7 @@ Web-development (mostly back-end), DevOps
 
 - Ruby (★★★★)
 - JavaScript/NodeJS (★★)
-- TypeScript/NodeJs (★)
+- TypeScript/NodeJS (★)
 - Rust (★)
 - Go (★)
 - PHP (★★) - quite rusty as I didn't work with it for a very long time
