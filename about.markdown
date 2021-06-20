@@ -3,28 +3,38 @@ layout: default
 title: About
 permalink: /about/
 ---
-# Coding
+# Me
 
-I am Benjamin Klotz, a Software Engineer based in Tyrol, Austria with 5 years of experience.
-My heart is beating for back-end, DevOps and Linux.
+Hi 👋 I'm Benjamin, 28 years old and based in Tyrol, Austria. Currently I'm working at [onlim](https://onlim.com/) as software engineer with a focus on backe-end and DevOps.
+After graduating from https://htlinn.ac.at/ where I came in contact with hardware and software side of the world I decided to fully focus on software.
 
-I focus on delivering docker based solutions while adhering to clean code principles and practicing TDD.
+The first 2 years I spent working for a web agency where I worked with [PHP](https://www.php.net/) ([Symfony](https://symfony.com/), [eZ Publish](https://github.com/ezsystems/ezpublish-community)).
+Followed by a position at [STI Innsbruck](https://www.sti-innsbruck.at/) as a full-time [Ruby](https://www.ruby-lang.org/en/) ([Rails](https://rubyonrails.org/)) developer. Branched off from STI I moved on working for onlim where I'm still employed to date.
 
-### Core skills
+All the time working as developer I was still curious to learn new things, but also trying to get a detailed understanding of the technologies I use. Nowadays I'm learning more JavaScript and [TypeScript](https://www.typescriptlang.org/) combined with [NodeJS](https://nodejs.dev/) to leverage it on the back-end. 
 
-- Ruby
-- JavaScript/TypeScript
-- NodeJS
-- PostgreSQL
-- MongoDB
-- Redis
-- Docker
-- Kubernetes
+Lately I moved on to a more DevOps focused role using [Docker](https://www.docker.com/) and [Kubernetes](https://kubernetes.io/) as well as having the chance to learn about [Terraform](https://www.terraform.io/)
 
-I started my career with PHP where I mainly worked with [Symfony](https://symfony.com/) and [eZ Publish](https://github.com/ezsystems/ezpublish-community). Then moved on to [Ruby](https://www.ruby-lang.org/en/) and mainly using [Rails](https://rubyonrails.org/) as framework of choice.
-Nowadays I am learning more JavaScript and [TypeScript](https://www.typescriptlang.org/) which I am using together with [NodeJS](https://nodejs.dev/) on the back-end by leveraging [NestJS](https://nestjs.com) as framework of choice.
+## Interests
 
-[Docker](https://www.docker.com/) and [Kubernetes](https://kubernetes.io/) are a constant companion as well and my knowledge of it increase every day I have the chance to use it.
+Web-development (mostly back-end), DevOps, 
+
+### Languages
+
+- Ruby (★★★★)
+- JavaScript/NodeJS (★★)
+- TypeScript/NodeJs (★)
+- Rust (★)
+- Go (★)
+
+### Databases
+
+- PostgreSQL (★★★)
+- Redis (★★★)
+- MongoDB (★★)
+- Elasticsearch (★★)
+- Kafka (★) - debatable whether Kafka is a database 😄
+- Graph Databases (★)
 
 # Non coding
 
