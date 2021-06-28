@@ -9,7 +9,7 @@ After graduating from [HTL Innsbruck](https://htlinn.ac.at/) where I came in con
 The first 2 years I spent working for a web agency where I worked with [PHP](https://www.php.net/) ([Symfony](https://symfony.com/), [eZ Publish](https://github.com/ezsystems/ezpublish-community)).
 Followed by a position at [STI Innsbruck](https://www.sti-innsbruck.at/) as a full-time [Ruby](https://www.ruby-lang.org/en/) ([Rails](https://rubyonrails.org/)) developer. Branched off from STI I moved on working for onlim where I'm still employed to date.
 
-During the whole time working as developer I was curious to learn new things, but also trying to get a detailed understanding of the technologies I use. Nowadays I'm learning more JavaScript and [TypeScript](https://www.typescriptlang.org/) combined with [NodeJS](https://nodejs.dev/) to leverage it on the back-end. 
+During the whole time working as developer I was curious to learn new things, but also trying to get a detailed understanding of the technologies I use. Nowadays I'm learning more JavaScript and [TypeScript](https://www.typescriptlang.org/) combined with [NodeJS](https://nodejs.dev/) ([NestJS](https://nestjs.com)) to leverage it on the back-end. 
 
 I also moved on to a more DevOps focused role using [Docker](https://www.docker.com/) and [Kubernetes](https://kubernetes.io/) as well as having the chance to learn about [Terraform](https://www.terraform.io/).
 
