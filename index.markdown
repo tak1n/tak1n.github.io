@@ -20,10 +20,9 @@ Web-development (mostly back-end), DevOps
 ### Languages
 
 - Ruby (★★★★)
-- JavaScript/Node.js (★★)
-- TypeScript/Node.js (★★)
+- JavaScript (★★)
+- TypeScript (★★)
 - Rust (★)
-- Go (★)
 - PHP (★★) - quite rusty as I didn't work with it for a very long time
 
 ### Databases
@@ -40,24 +39,16 @@ Web-development (mostly back-end), DevOps
 - Rails (★★★★)
 - Sinatra (★★★★)
 - Rack (★★★★)
-- NestJS (★★)
+- Node.js (★★)
 - Express (★★)
+- NestJS (★★)
+- Prisma (★★)
 - Terraform (★★)
 - Docker (★★★★)
 - Kubernetes (★★★)
 
 - CI/CD (★★★★) - TravisCI, Bitbucket Pipelines, Github Actions, CircleCI
 - TDD (★★★★) - RSpec, Minitest, Jest
-
-### Want to learn
-
-Due to the fact of recently switching from being mainly a ruby/rails dev with some DevOps experience
-to working mainly with Node.js and NestJS as well as moving more into a DevOps role the following listed todo Items are just a longterm wishlist
-
-- Angular
-- Ionic (Angular) -> Mobile Apps
-- Electron -> Desktop Apps
-- improve knowledge in Rust
 
 # Non coding
 
