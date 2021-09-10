@@ -9,7 +9,7 @@ After graduating from [HTL Innsbruck](https://htlinn.ac.at/) where I came in con
 The first 2 years I spent working for a web agency where I worked with [PHP](https://www.php.net/) ([Symfony](https://symfony.com/), [eZ Publish](https://github.com/ezsystems/ezpublish-community)).
 Followed by a position at [STI Innsbruck](https://www.sti-innsbruck.at/) as a full-time [Ruby](https://www.ruby-lang.org/en/) ([Rails](https://rubyonrails.org/)) developer. Branched off from STI I moved on working for onlim where I'm still employed to date.
 
-During the whole time working as developer I was curious to learn new things, but also trying to get a detailed understanding of the technologies I use. Nowadays I'm learning more JavaScript and [TypeScript](https://www.typescriptlang.org/) combined with [Node.js](https://nodejs.dev/) ([NestJS](https://nestjs.com)) to leverage it on the back-end. 
+During the whole time working as developer I was curious to learn new things, but also trying to get a detailed understanding of the technologies I use. Nowadays I'm learning more JavaScript and [TypeScript](https://www.typescriptlang.org/) combined with [Node.js](https://nodejs.dev/)  and [NestJS](https://nestjs.com) to leverage it on the back-end.
 
 I also moved on to a more DevOps focused role using [Docker](https://www.docker.com/) and [Kubernetes](https://kubernetes.io/) as well as having the chance to learn about [Terraform](https://www.terraform.io/).
 
@@ -19,22 +19,41 @@ Web-development (mostly back-end), DevOps
 
 ### Languages
 
-Ruby (★★★★), TypeScript (★★), Rust (★), PHP (★★)
+- Ruby (★★★★) 💎
+- TypeScript (★★) 🛸
+- Rust (★) 🦀
+- PHP (★★) 🐘
 
 ### Databases
 
-PostgreSQL (★★★), Redis (★★★), MongoDB (★★), Elasticsearch (★★), Graph Databases (★)
+- PostgreSQL (★★★) 🐘
+- Redis (★★★) 🔑
+- MongoDB (★★) 📄
+- Elasticsearch (★★) 🔍
 
-### Frameworks, Tools
+### Frameworks
 
-Rails (★★★★), Sinatra (★★★★), Node.js (★★), Express (★★), NestJS (★★), Prisma (★★), Terraform (★★),
-Docker (★★★★), Kubernetes (★★★), Kafka (★), RabbitMQ (★★)
+- Rails (★★★★) 🚅
+- Sinatra (★★★★) 🤠
+- Express (★★) ⚡️
+- NestJS (★★) 🐱
+
+### Tools
+
+- Prisma (★★) 🚀
+- Terraform (★★) 🪐
+- Docker (★★★★) 🕋
+- Kubernetes (★★★) ⚙️
+- Kafka (★) ✉️
+- RabbitMQ (★★) ✉️
 
 ### Methodologies
 
-CI/CD (★★★★) [TravisCI, Bitbucket Pipelines, Github Actions, CircleCI], TDD (★★★★) [RSpec, Minitest, Jest], OOP, SOLID
+- CI/CD (★★★★) 🚢 - TravisCI, Bitbucket Pipelines, Github Actions, CircleCI
+- TDD (★★★★) 🔬 - RSpec, Minitest, Jest,
+- SOLID
 
-# Non coding
+# Non coding ⛰️ 🏃
 
 Besides loving to learn about new technologies or gaining more in depth knowledege about already used technologies I have a big passion for sports and fitness.
 I love long full day hiking trips, do 2-3 runs per week and love getting more in shape after years of living a unhealthy lifestyle.
