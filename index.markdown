@@ -3,7 +3,7 @@ layout: default
 ---
 # Me
 
-Hi 👋 I'm Benjamin, 28 years old and based in Tyrol, Austria. Currently I'm working at [onlim](https://onlim.com/) as software engineer with a focus on back-end and DevOps.
+Hi 👋 I'm Benjamin, 29 years old and based in Tyrol, Austria. Currently I'm working at [onlim](https://onlim.com/) as software engineer with a focus on back-end and DevOps.
 After graduating from [HTL Innsbruck](https://htlinn.ac.at/) where I came in contact with hardware and software side of the world I decided to fully focus on software.
 
 The first 2 years I spent working for a web agency where I worked with [PHP](https://www.php.net/) ([Symfony](https://symfony.com/), [eZ Publish](https://github.com/ezsystems/ezpublish-community)).
@@ -19,36 +19,20 @@ Web-development (mostly back-end), DevOps
 
 ### Languages
 
-- Ruby (★★★★)
-- JavaScript (★★)
-- TypeScript (★★)
-- Rust (★)
-- PHP (★★) - quite rusty as I didn't work with it for a very long time
+Ruby (★★★★), TypeScript (★★), Rust (★), PHP (★★)
 
 ### Databases
 
-- PostgreSQL (★★★)
-- Redis (★★★)
-- MongoDB (★★)
-- Elasticsearch (★★)
-- Kafka (★) - debatable whether Kafka is a database 😄
-- Graph Databases (★)
+PostgreSQL (★★★), Redis (★★★), MongoDB (★★), Elasticsearch (★★), Graph Databases (★)
 
-### Frameworks, Tools, Methodologies
+### Frameworks, Tools
 
-- Rails (★★★★)
-- Sinatra (★★★★)
-- Rack (★★★★)
-- Node.js (★★)
-- Express (★★)
-- NestJS (★★)
-- Prisma (★★)
-- Terraform (★★)
-- Docker (★★★★)
-- Kubernetes (★★★)
+Rails (★★★★), Sinatra (★★★★), Node.js (★★), Express (★★), NestJS (★★), Prisma (★★), Terraform (★★),
+Docker (★★★★), Kubernetes (★★★), Kafka (★), RabbitMQ (★★)
 
-- CI/CD (★★★★) - TravisCI, Bitbucket Pipelines, Github Actions, CircleCI
-- TDD (★★★★) - RSpec, Minitest, Jest
+### Methodologies
+
+CI/CD (★★★★) [TravisCI, Bitbucket Pipelines, Github Actions, CircleCI], TDD (★★★★) [RSpec, Minitest, Jest], OOP, SOLID
 
 # Non coding
 
