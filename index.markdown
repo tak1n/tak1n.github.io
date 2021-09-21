@@ -46,6 +46,7 @@ Web-development (mostly back-end), DevOps, Open Source Software
 - Kubernetes (★★★) ⚙️
 - Kafka (★) ✉️
 - RabbitMQ (★★) ✉️
+- OpenAPI (★★) 📃
 
 ### Methodologies
 
