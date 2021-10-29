@@ -37,6 +37,7 @@ Web-development (mostly backend), DevOps, [Open Source Software](https://github.
 - Sinatra (★★★★) 🤠
 - Express (★★) ⚡️
 - NestJS (★★) 🐱
+- Angular (★)
 
 ### Tools
 
@@ -51,8 +52,9 @@ Web-development (mostly backend), DevOps, [Open Source Software](https://github.
 ### Methodologies
 
 - CI/CD (★★★★) 🚢 - TravisCI, Bitbucket Pipelines, Github Actions, CircleCI
-- TDD (★★★★) 🔬 - RSpec, Minitest, Jest,
+- TDD (★★★★) 🔬 - RSpec, Minitest, Jest
 - SOLID
+- API Design - REST, GraphQL (★★★)
 
 # Non coding ⛰️ 🏃
 
