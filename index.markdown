@@ -13,36 +13,36 @@ During the whole time working as developer I was curious to learn new things, bu
 
 I also moved on to a more DevOps focused role using [Docker](https://www.docker.com/) and [Kubernetes](https://kubernetes.io/) as well as having the chance to learn about [Terraform](https://www.terraform.io/).
 
-# Skills
+## Skills
 
-## Architecture
+### Architecture
 
 - Microservices (★★★)
 - API Design - RESTful, GraphQL (★★★)
 - TDD (★★★★) 
 - SOLID (★★★)
 
-## Backend
+### Backend
 
 - 💎 Ruby (Rails, Sinatra, Roda) (★★★★)
 - 🚀 Node.js (TypeScript, Express.js, NestJS) (★★)
 - 🐘 PHP (Symfony) (★★)
 - 🦀 Rust (★)
 
-## Frontend
+### Frontend
 
 - HTML (★★★)
 - CSS / SCSS  (★★★)
 - Angular (★)
 
-## Databases
+### Databases
 
 - 🐘 PostgreSQL (★★★) 
 - 🔑 Redis (★★★) 
 - 📄 MongoDB (★★) 
 - 🔍 Elasticsearch (★★) 
 
-## DevOps
+### DevOps
 
 - 🕋 Docker/Compose (★★★★) 
 - ⚙️ Kubernetes (★★★) 
@@ -51,17 +51,17 @@ I also moved on to a more DevOps focused role using [Docker](https://www.docker.
 - 🪐 Terraform (★★) 
 - 🔬 Observability (Metrics, Logging, Tracing) (★★★★)
 
-## Tools
+### Tools
 
-- ✉️ Git (★★★★)
-- ✉️ Github (★★★★)
-- ✉️ Bitbucket (★★★★)
-- ✉️ Prisma (★★★) 
+- Git (★★★★)
+- Github (★★★★)
+- Bitbucket (★★★★)
+- Prisma (★★★)
 - ✉️ Kafka (★)
 - ✉️ RabbitMQ (★★)
-- 📃 OpenAPI (★★) 
-- Bash (★★★) 
-- ZSH (★★★) 
+- 📃 OpenAPI (★★)
+- Bash (★★★)
+- ZSH (★★★)
 
 # Non coding ⛰️ 🏃
 
