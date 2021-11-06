@@ -13,48 +13,55 @@ During the whole time working as developer I was curious to learn new things, bu
 
 I also moved on to a more DevOps focused role using [Docker](https://www.docker.com/) and [Kubernetes](https://kubernetes.io/) as well as having the chance to learn about [Terraform](https://www.terraform.io/).
 
-## Interests
+# Skills
 
-Web-development (mostly backend), DevOps, [Open Source Software](https://github.com/tak1n)
+## Architecture
 
-### Languages
+- Microservices (★★★)
+- API Design - RESTful, GraphQL (★★★)
+- TDD (★★★★) 
+- SOLID (★★★)
 
-- Ruby (★★★★) 💎
-- TypeScript (★★) 🛸
-- Rust (★) 🦀
-- PHP (★★) 🐘
+## Backend
 
-### Databases
+- 💎 Ruby (Rails, Sinatra, Roda) (★★★★)
+- 🚀 Node.js (TypeScript, Express.js, NestJS) (★★)
+- 🐘 PHP (Symfony) (★★)
+- 🦀 Rust (★)
 
-- PostgreSQL (★★★) 🐘
-- Redis (★★★) 🔑
-- MongoDB (★★) 📄
-- Elasticsearch (★★) 🔍
+## Frontend
 
-### Frameworks
-
-- Rails (★★★★) 🚅
-- Sinatra (★★★★) 🤠
-- Express (★★) ⚡️
-- NestJS (★★) 🐱
+- HTML (★★★)
+- CSS / SCSS  (★★★)
 - Angular (★)
 
-### Tools
+## Databases
 
-- Prisma (★★) 🚀
-- Terraform (★★) 🪐
-- Docker (★★★★) 🕋
-- Kubernetes (★★★) ⚙️
-- Kafka (★) ✉️
-- RabbitMQ (★★) ✉️
-- OpenAPI (★★) 📃
+- 🐘 PostgreSQL (★★★) 
+- 🔑 Redis (★★★) 
+- 📄 MongoDB (★★) 
+- 🔍 Elasticsearch (★★) 
 
-### Methodologies
+## DevOps
 
-- CI/CD (★★★★) 🚢 - TravisCI, Bitbucket Pipelines, Github Actions, CircleCI
-- TDD (★★★★) 🔬 - RSpec, Minitest, Jest
-- SOLID
-- API Design - REST, GraphQL (★★★)
+- 🕋 Docker/Compose (★★★★) 
+- ⚙️ Kubernetes (★★★) 
+- Heroku (★★)
+- 🚢 CI/CD (★★★★) 
+- 🪐 Terraform (★★) 
+- 🔬 Observability (Metrics, Logging, Tracing) (★★★★)
+
+## Tools
+
+- ✉️ Git (★★★★)
+- ✉️ Github (★★★★)
+- ✉️ Bitbucket (★★★★)
+- ✉️ Prisma (★★★) 
+- ✉️ Kafka (★)
+- ✉️ RabbitMQ (★★)
+- 📃 OpenAPI (★★) 
+- Bash (★★★) 
+- ZSH (★★★) 
 
 # Non coding ⛰️ 🏃
 
