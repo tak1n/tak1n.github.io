@@ -33,6 +33,7 @@ I also moved on to a more DevOps focused role using [Docker](https://www.docker.
 
 - HTML (★★★)
 - CSS / SCSS  (★★★)
+- TypeScript (★★)
 - Angular (★)
 
 ### Databases
@@ -44,11 +45,11 @@ I also moved on to a more DevOps focused role using [Docker](https://www.docker.
 
 ### DevOps
 
-- 🕋 Docker/Compose (★★★★) 
-- ⚙️ Kubernetes (★★★) 
+- 🕋 Docker/Compose (★★★★)
+- ⚙️  Kubernetes (★★★)
 - Heroku (★★)
-- 🚢 CI/CD (★★★★) 
-- 🪐 Terraform (★★) 
+- 🚢 CI/CD (★★★★)
+- 🪐 Terraform (★★)
 - 🔬 Observability (Metrics, Logging, Tracing) (★★★★)
 
 ### Tools
@@ -57,11 +58,12 @@ I also moved on to a more DevOps focused role using [Docker](https://www.docker.
 - Github (★★★★)
 - Bitbucket (★★★★)
 - Prisma (★★★)
-- ✉️ Kafka (★)
-- ✉️ RabbitMQ (★★)
+- ✉️  Kafka (★)
+- ✉️  RabbitMQ (★★)
 - 📃 OpenAPI (★★)
 - Bash (★★★)
 - ZSH (★★★)
+- Neovim (★★★)
 
 # Non coding ⛰️ 🏃
 
