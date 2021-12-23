@@ -11,7 +11,9 @@ Followed by a position at [STI Innsbruck](https://www.sti-innsbruck.at/) as a fu
 
 During the whole time working as developer I was curious to learn new things, but also trying to get a detailed understanding of the technologies I use. Altough I'm a big Ruby enthusiast 💎❤️, I'm learning more JavaScript and [TypeScript](https://www.typescriptlang.org/) combined with [Node.js](https://nodejs.dev/) and [NestJS](https://nestjs.com) to leverage it on the backend.
 
-I also moved on to a more DevOps focused role using [Docker](https://www.docker.com/) and [Kubernetes](https://kubernetes.io/) as well as having the chance to learn about [Terraform](https://www.terraform.io/).
+Also I'm a big believer in OSS and try to give back to it by either contributing or sponsoring:
+- [Github](https://github.com/tak1n)
+- [OpenCollective](https://opencollective.com/benjamin-klotz)
 
 ## Skills
 
