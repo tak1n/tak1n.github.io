@@ -27,7 +27,7 @@ Also I'm a big believer in OSS and try to give back to it by either contributing
 ### Backend
 
 - 💎 Ruby (Rails, Sinatra, Roda) (★★★★)
-- 🚀 Node.js (TypeScript, Express.js, NestJS) (★★)
+- 🚀 Node.js (TypeScript, Express.js, NestJS, [Prisma](https://prisma.io)) (★★)
 - 🐘 PHP (Symfony) (★★)
 - 🔮 Crystal (★)
 - 🦀 Rust (★)
@@ -59,7 +59,6 @@ Also I'm a big believer in OSS and try to give back to it by either contributing
 - Git (★★★★)
 - Github (★★★★)
 - Bitbucket (★★★★)
-- [Prisma](https://prisma.io) (★★★)
 - ✉️  Kafka (★)
 - ✉️  RabbitMQ (★★)
 - 📃 OpenAPI (★★)
