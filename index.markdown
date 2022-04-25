@@ -9,7 +9,7 @@ After graduating from [HTL Innsbruck](https://htlinn.ac.at/) where I came in con
 The first 2 years I spent working for a web agency where I worked with [PHP](https://www.php.net/) ([Symfony](https://symfony.com/), [eZ Publish](https://github.com/ezsystems/ezpublish-community)).
 Followed by a position at [STI Innsbruck](https://www.sti-innsbruck.at/) as a full-time [Ruby](https://www.ruby-lang.org/en/) ([Rails](https://rubyonrails.org/)) developer. Branched off from STI I moved on working for onlim where I'm still employed to date.
 
-During the whole time working as developer I was curious to learn new things, but also trying to get a detailed understanding of the technologies I use. Altough I'm a big Ruby enthusiast 💎❤️, I'm learning more JavaScript and [TypeScript](https://www.typescriptlang.org/) combined with [Node.js](https://nodejs.dev/) and [NestJS](https://nestjs.com) to leverage it on the backend. In my spare time I'm currently experimenting with [Crystal](https://crystal-lang.org) and [Lucky](https://luckyframework.org).
+During the whole time working as developer I was curious to learn new things, but also trying to get a detailed understanding of the technologies I use. Altough I'm a big Ruby enthusiast 💎❤️, I'm learning more JavaScript and [TypeScript](https://www.typescriptlang.org/) combined with [Node.js](https://nodejs.dev/) and [NestJS](https://nestjs.com) to leverage it on the backend. In my spare time I'm currently experimenting with [Hanami](https://hanamirb.org), [Crystal](https://crystal-lang.org) and [Lucky](https://luckyframework.org).
 
 Also I'm a big believer in OSS and try to give back to it by either contributing or sponsoring:
 - [Github](https://github.com/tak1n)
