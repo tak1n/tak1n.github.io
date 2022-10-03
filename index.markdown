@@ -3,7 +3,7 @@ layout: default
 ---
 # Me 👨‍💻
 
-Hi 👋 I'm Benjamin, 29 years old and based in Tyrol, Austria. Currently I'm working at [onlim](https://onlim.com/) as software engineer with a focus on backend and DevOps.
+Hi 👋 I'm Benjamin, 30 years old and based in Tyrol, Austria. Currently I'm working at [onlim](https://onlim.com/) as software engineer with a focus on backend and DevOps.
 After graduating from [HTL Innsbruck](https://htlinn.ac.at/) where I came in contact with hardware and software side of the world I decided to fully focus on software.
 
 The first 2 years I spent working for a web agency where I worked with [PHP](https://www.php.net/) ([Symfony](https://symfony.com/), [eZ Publish](https://github.com/ezsystems/ezpublish-community)).
