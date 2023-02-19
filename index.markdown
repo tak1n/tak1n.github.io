@@ -26,11 +26,11 @@ Also I'm a big believer in OSS and try to give back to it by either contributing
 
 ### Backend
 
-- 💎 Ruby (Rails, Sinatra, Roda) (★★★★)
-- 🚀 Node.js (TypeScript, Express.js, [NestJS](https://nestjs.com), [Prisma](https://prisma.io)) (★★)
-- 🐘 PHP (Symfony) (★★)
+- 💎 Ruby (★★★★)
+- 🚀 TypeScript/Node.js (★★)
 - 🔮 Crystal (★)
 - 🦀 Rust (★)
+- 🐘 PHP (★★)
 
 ### Frontend
 
@@ -40,25 +40,22 @@ Also I'm a big believer in OSS and try to give back to it by either contributing
 
 ### Databases
 
-- 🐘 PostgreSQL (★★★) 
-- 🔑 Redis (★★★) 
-- 📄 MongoDB (★★) 
-- 🔍 Elasticsearch (★★) 
+- 🐘 PostgreSQL (★★★)
+- 🔑 Redis (★★★)
+- 📄 MongoDB (★★)
+- 🔍 Elasticsearch (★★)
 
 ### DevOps
 
 - 🕋 Docker/Compose (★★★★)
 - ⚙️  Kubernetes (★★★)
-- Heroku (★★)
-- 🚢 CI/CD (★★★★)
 - 🪐 Terraform (★★)
+- 🚢 CI/CD (★★★★)
 - 🔬 Observability (Metrics, Logging, Tracing) (★★★★)
 
 ### Tools
 
 - Git (★★★★)
-- Github (★★★★)
-- Bitbucket (★★★★)
 - ✉️  Kafka (★)
 - ✉️  RabbitMQ (★★)
 - 📃 OpenAPI (★★)
