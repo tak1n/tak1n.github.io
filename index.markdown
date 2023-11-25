@@ -9,7 +9,7 @@ After graduating from [HTL Innsbruck](https://htlinn.ac.at/) where I came in con
 The first 2 years I spent working for a web agency where I worked with [PHP](https://www.php.net/) ([Symfony](https://symfony.com/), [eZ Publish](https://github.com/ezsystems/ezpublish-community)).
 Followed by a position at [STI Innsbruck](https://www.sti-innsbruck.at/) as a full-time [Ruby](https://www.ruby-lang.org/en/) ([Rails](https://rubyonrails.org/)) developer. Branched off from STI I moved on working for onlim where I'm still employed to date.
 
-During the whole time working as developer I was curious to learn new things, but also trying to get a detailed understanding of the technologies I use. Nowadays I'm learning and using more JavaScript, [TypeScript](https://www.typescriptlang.org/) and [Node.js](https://nodejs.dev/) on the backend. In my spare time I'm currently refreshing my electronics engineering basics by [reading](https://www.elektronik-kompendium.de/shop/buecher/elektronik-fibel) [various](https://www.veritas.at/grundlagen-der-elektrotechnik-1-neu-978-3-7101-0134-2) [books](https://www.veritas.at/grundlagen-der-elektrotechnik-2-neu-978-3-7101-0139-7) and fiddling around with embedded systems and microcontrollers ([Arduino Uno R3](https://docs.arduino.cc/hardware/uno-rev3), [ESP8622](https://www.espressif.com/en/products/socs/esp8266), etc).
+During the whole time working as developer I was curious to learn new things, but also trying to get a detailed understanding of the technologies I use. Nowadays I'm learning and using more JavaScript, [TypeScript](https://www.typescriptlang.org/) and [Node.js](https://nodejs.dev/) on the backend. In my spare time I'm currently refreshing my electronics engineering basics by [reading](https://www.elektronik-kompendium.de/shop/buecher/elektronik-fibel) [various](https://www.veritas.at/grundlagen-der-elektrotechnik-1-neu-978-3-7101-0134-2) [books](https://www.veritas.at/grundlagen-der-elektrotechnik-2-neu-978-3-7101-0139-7) and fiddling around with embedded systems and microcontrollers ([Arduino Uno R3](https://docs.arduino.cc/hardware/uno-rev3), [Raspberry Pi Pico](https://www.raspberrypi.com/products/raspberry-pi-pico/), [ESP8622](https://www.espressif.com/en/products/socs/esp8266), [ESP32](https://www.espressif.com/en/products/socs/esp32)).
 
 Also I'm a big believer in OSS and try to give back to it by either contributing or sponsoring:
 - [Github](https://github.com/tak1n)
@@ -24,13 +24,13 @@ Also I'm a big believer in OSS and try to give back to it by either contributing
 - TDD (★★★★) 
 - SOLID (★★★)
 
-### Backend
+### Backend / Embedded
 
 - 💎 Ruby (★★★★)
 - 🚀 TypeScript/Node.js (★★)
-- 🔮 [Crystal](https://crystal-lang.org/) (★)
-- 🦀 [Rust](https://www.rust-lang.org/) (★)
 - 🐘 PHP (★★)
+- 🦀 [Rust](https://www.rust-lang.org/) (★)
+- C/C++ (★★)
 
 ### Frontend
 
