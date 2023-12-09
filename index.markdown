@@ -1,17 +1,19 @@
 ---
 layout: default
 ---
+
 # Me 👨‍💻
 
-Hi 👋 I'm Benjamin, 30 years old and based in Tyrol, Austria. Currently I'm working at [onlim](https://onlim.com/) as software engineer with a focus on backend and DevOps.
+Hi 👋 I'm Benjamin, 31 years old and based in Tyrol, Austria. Currently I'm working at [onlim](https://onlim.com/) as software engineer with a focus on backend and DevOps.
 After graduating from [HTL Innsbruck](https://htlinn.ac.at/) where I came in contact with hardware and software side of the world I decided to fully focus on software.
 
 The first 2 years I spent working for a web agency where I worked with [PHP](https://www.php.net/) ([Symfony](https://symfony.com/), [eZ Publish](https://github.com/ezsystems/ezpublish-community)).
 Followed by a position at [STI Innsbruck](https://www.sti-innsbruck.at/) as a full-time [Ruby](https://www.ruby-lang.org/en/) ([Rails](https://rubyonrails.org/)) developer. Branched off from STI I moved on working for onlim where I'm still employed to date.
 
-During the whole time working as developer I was curious to learn new things, but also trying to get a detailed understanding of the technologies I use. Nowadays I'm learning and using more JavaScript, [TypeScript](https://www.typescriptlang.org/) and [Node.js](https://nodejs.dev/) on the backend. In my spare time I'm currently refreshing my electronics engineering basics by [reading](https://www.elektronik-kompendium.de/shop/buecher/elektronik-fibel) [various](https://www.veritas.at/grundlagen-der-elektrotechnik-1-neu-978-3-7101-0134-2) [books](https://www.veritas.at/grundlagen-der-elektrotechnik-2-neu-978-3-7101-0139-7) and fiddling around with embedded systems and microcontrollers ([Arduino Uno R3](https://docs.arduino.cc/hardware/uno-rev3), [Raspberry Pi Pico](https://www.raspberrypi.com/products/raspberry-pi-pico/), [ESP8622](https://www.espressif.com/en/products/socs/esp8266), [ESP32](https://www.espressif.com/en/products/socs/esp32)).
+During the whole time working as developer I was curious to learn new things, but also trying to get a detailed understanding of the technologies I use. Nowadays I'm learning and using more JavaScript, [TypeScript](https://www.typescriptlang.org/) and [Node.js](https://nodejs.dev/) on the backend. In my spare time I'm currently refreshing my electronics engineering basics by [reading](https://www.elektronik-kompendium.de/shop/buecher/elektronik-fibel) [various](https://www.veritas.at/grundlagen-der-elektrotechnik-1-neu-978-3-7101-0134-2) [books](https://www.veritas.at/grundlagen-der-elektrotechnik-2-neu-978-3-7101-0139-7) and fiddling around with embedded systems and microcontrollers. While I tried various MCU boards with Arduino (Uno R3, ESP8266, ESP32C3, Raspberry Pi Pico W, Digispark ATTiny85) I'm currently focusing on lower level programming such devices without Arduino Framework (ESP32C3 ESP-IDF, STM32 STM32Cube).
 
 Also I'm a big believer in OSS and try to give back to it by either contributing or sponsoring:
+
 - [Github](https://github.com/tak1n)
 - [OpenCollective](https://opencollective.com/benjamin-klotz)
 
@@ -21,7 +23,7 @@ Also I'm a big believer in OSS and try to give back to it by either contributing
 
 - Microservices (★★★)
 - API Design - RESTful, GraphQL (★★★)
-- TDD (★★★★) 
+- TDD (★★★★)
 - SOLID (★★★)
 
 ### Backend / Embedded
@@ -35,7 +37,7 @@ Also I'm a big believer in OSS and try to give back to it by either contributing
 ### Frontend
 
 - HTML (★★★)
-- CSS / SCSS  (★★★)
+- CSS / SCSS (★★★)
 - TypeScript (★★)
 
 ### Databases
@@ -48,7 +50,7 @@ Also I'm a big believer in OSS and try to give back to it by either contributing
 ### DevOps
 
 - 🕋 Docker/Compose (★★★★)
-- ⚙️  Kubernetes (★★★)
+- ⚙️ Kubernetes (★★★)
 - 🪐 Terraform (★★)
 - 🚢 CI/CD (★★★★)
 - 🔬 Observability (Metrics, Logging, Tracing) (★★★★)
@@ -56,8 +58,8 @@ Also I'm a big believer in OSS and try to give back to it by either contributing
 ### Tools
 
 - Git (★★★★)
-- ✉️  Kafka (★)
-- ✉️  RabbitMQ (★★)
+- ✉️ Kafka (★)
+- ✉️ RabbitMQ (★★)
 - 📃 OpenAPI (★★)
 - Bash (★★★)
 - ZSH (★★★)
