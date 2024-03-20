@@ -10,7 +10,7 @@ After graduating from [HTL Innsbruck](https://htlinn.ac.at/) where I came in con
 The first 2 years I spent working for a web agency where I worked with [PHP](https://www.php.net/) ([Symfony](https://symfony.com/), [eZ Publish](https://github.com/ezsystems/ezpublish-community)).
 Followed by a position at [STI Innsbruck](https://www.sti-innsbruck.at/) as a full-time [Ruby](https://www.ruby-lang.org/en/) ([Rails](https://rubyonrails.org/)) developer. Branched off from STI I moved on working for onlim where I'm still employed to date.
 
-During the whole time working as developer I was curious to learn new things, but also trying to get a detailed understanding of the technologies I use. Nowadays I'm learning and using more JavaScript, [TypeScript](https://www.typescriptlang.org/) and [Node.js](https://nodejs.dev/) on the backend. In my spare time I'm currently refreshing my electronics engineering basics by reading [various](https://www.elektronik-kompendium.de/shop/buecher/elektronik-fibel) [books](https://artofelectronics.net/) and fiddling around with embedded systems and microcontrollers. While I tried various MCU boards with Arduino (Uno, ESP8266, ESP32C3, Pico W, ATTiny85) I'm currently focusing on lower level programming such devices without Arduino Framework.
+During the whole time working as developer I was curious to learn new things, but also trying to get a detailed understanding of the technologies I use. Nowadays I'm learning and using more JavaScript, [TypeScript](https://www.typescriptlang.org/) and [Node.js](https://nodejs.dev/) on the backend. In my spare time I'm currently refreshing my electronics engineering basics by reading [various](https://www.elektronik-kompendium.de/shop/buecher/elektronik-fibel) [books](https://artofelectronics.net/) and fiddling around with embedded systems and microcontrollers.
 
 Also I'm a big believer in OSS and try to give back to it by either contributing or sponsoring:
 
@@ -58,9 +58,9 @@ Also I'm a big believer in OSS and try to give back to it by either contributing
 ### Tools
 
 - Git (★★★★)
-- ✉️ Kafka (★)
-- ✉️ RabbitMQ (★★)
-- 📃 OpenAPI (★★)
+- Kafka (★)
+- RabbitMQ (★★)
+- OpenAPI (★★)
 - Bash (★★★)
 - ZSH (★★★)
 - Neovim (★★★)
