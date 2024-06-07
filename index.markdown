@@ -10,7 +10,24 @@ After graduating from [HTL Innsbruck](https://htlinn.ac.at/) where I came in con
 The first 2 years I spent working for a web agency where I worked with [PHP](https://www.php.net/) ([Symfony](https://symfony.com/), [eZ Publish](https://github.com/ezsystems/ezpublish-community)).
 Followed by a position at [STI Innsbruck](https://www.sti-innsbruck.at/) as a full-time [Ruby](https://www.ruby-lang.org/en/) ([Rails](https://rubyonrails.org/)) developer. Branched off from STI I moved on working for onlim where I'm still employed to date.
 
-During the whole time working as developer I was curious to learn new things, but also trying to get a detailed understanding of the technologies I use. Nowadays I'm learning and using more JavaScript, [TypeScript](https://www.typescriptlang.org/) and [Node.js](https://nodejs.dev/) on the backend. In my spare time I'm currently refreshing my electronics engineering basics by reading [various](https://www.elektronik-kompendium.de/shop/buecher/elektronik-fibel) [books](https://artofelectronics.net/) and fiddling around with embedded systems and microcontrollers.
+During the whole time working as developer I was curious to learn new things, but also trying to get a detailed understanding of the technologies I use. Nowadays I'm learning and using more JavaScript, [TypeScript](https://www.typescriptlang.org/) and [Node.js](https://nodejs.dev/) on the backend. In my spare time I'm currently refreshing my electronics engineering & networking basics by reading various books:
+
+- [Elektronik Fibel (DE)](https://www.elektronik-kompendium.de/shop/buecher/elektronik-fibel)
+- [The Art of Electronics (EN)](https://artofelectronics.net/)
+- [Computernetzwerke (DE)](https://www.hanser-fachbuch.de/fachbuch/artikel/9783446474154)
+
+In addition to reading and (re-)learning the theory I'm also trying to realize practical homelab projects:
+
+- Homelab "Cluster"
+  - 1 Rasbperry Pi 5 (Raspberry Pi OS), 2 Fujitsu Futro S920 (Ubuntu 24.04 Server)
+  - 1 Futro S920 OpenWRT Router
+  - 1 1Gbps Switch
+  - running HomeAssistant, self hosted Media storage (Google Photo alternative)
+- Microcontroller projects
+  - ESP32
+  - STM32
+  - Raspberry Pi Pico
+- trying DIY repairs of electronics
 
 Also I'm a big believer in OSS and try to give back to it by either contributing or sponsoring:
 
