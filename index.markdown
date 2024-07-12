@@ -18,7 +18,7 @@ In addition to reading and (re-)learning the theory I'm also trying to realize p
   - 1 Rasbperry Pi 5 (Raspberry Pi OS), 2 Fujitsu Futro S920 (Ubuntu 24.04 Server)
   - 1 Futro S920 OpenWRT Router
   - 1 1Gbps Switch
-  - running HomeAssistant, self hosted Media storage (Google Photo alternative)
+  - running HomeAssistant & PhotoPrism
 - Microcontroller projects
   - STM32
   - Raspberry Pi Pico
@@ -34,16 +34,14 @@ Also I'm a big believer in OSS and try to give back to it by either contributing
 ### Architecture
 
 - Microservices (★★★)
-- API Design - RESTful, GraphQL (★★★)
+- API Design - REST, GraphQL (★★★)
 - TDD (★★★★)
-- SOLID (★★★)
 
 ### Backend / Embedded
 
 - 💎 Ruby (★★★★)
 - 🚀 TypeScript/Node.js (★★)
 - 🐘 PHP (★★)
-- Rust (★)
 - C/C++ (★★)
 
 ### Frontend
@@ -56,14 +54,14 @@ Also I'm a big believer in OSS and try to give back to it by either contributing
 
 - 🐘 PostgreSQL (★★★)
 - 🔑 Redis (★★★)
-- 📄 MongoDB (★★)
-- 🔍 Elasticsearch (★★)
+- 📄 MongoDB (★)
+- 🔍 Elasticsearch (★)
 
 ### DevOps
 
 - 🕋 Docker/Compose (★★★★)
 - ⚙️ Kubernetes (★★★)
-- 🪐 Terraform (★★)
+- 🪐 Terraform (★)
 - 🚢 CI/CD (★★★★)
 - 🔬 Observability (Metrics, Logging, Tracing) (★★★★)
 
@@ -71,7 +69,6 @@ Also I'm a big believer in OSS and try to give back to it by either contributing
 
 - Git (★★★★)
 - Kafka (★)
-- RabbitMQ (★★)
 - OpenAPI (★★)
 - Bash (★★★)
 - ZSH (★★★)
