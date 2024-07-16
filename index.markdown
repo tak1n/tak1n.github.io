@@ -42,7 +42,7 @@ Also I'm a big believer in OSS and try to give back to it by either contributing
 - 💎 Ruby (★★★★)
 - 🚀 TypeScript/Node.js (★★)
 - 🐘 PHP (★★)
-- C/C++ (★★)
+- C (★)
 
 ### Frontend
 
