@@ -13,8 +13,8 @@ During my whole time working as a developer, I was curious to learn new things w
 In addition to reading and (re-)learning the theory, I’m also trying to realize practical home lab projects:
 
 - Home lab "Cluster"
-  - 1 Rasbperry Pi 5 (Raspberry Pi OS), 2 Fujitsu Futro S920 (Ubuntu 24.04 Server)
-  - 1 Futro S920 OpenWRT Router
+  - 1 Rasbperry Pi 5, 2 Fujitsu Futro S920
+  - 1 Futro S920 [OpenWRT](https://openwrt.org/) Router
   - 1 1Gbps Switch
   - running [PiHole](https://pi-hole.net/), [HomeAssistant](https://www.home-assistant.io/), [PhotoPrism](https://www.photoprism.app/)
 - Microcontroller projects
@@ -33,10 +33,10 @@ Also, I'm a big believer in OSS and try to give back to it by either contributin
 
 - 💎 Ruby (★★★★)
 - 🚀 TypeScript/Node.js (★★)
-- 🐘 PHP (★★)
+- 🐘 PHP (prevous experience, outdated)
 - C (★)
 
-### Frontend (listing previous experience, pretty outdated)
+### Frontend (listing previous experience, outdated)
 
 - HTML
 - CSS / SCSS
@@ -60,7 +60,7 @@ Also, I'm a big believer in OSS and try to give back to it by either contributin
 
 ### Other Tools & Technologies I use
 
-- Linux (Arch, Ubuntu)
+- Linux (Arch, Ubuntu, Raspberry Pi OS)
 - ZSH (with oh-my-zsh)
 - Neovim
 - Git
