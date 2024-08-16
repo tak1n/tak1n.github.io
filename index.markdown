@@ -16,7 +16,7 @@ In addition to reading and (re-)learning the theory, I’m also trying to realiz
   - 1 Rasbperry Pi 5 (Raspberry Pi OS), 2 Fujitsu Futro S920 (Ubuntu 24.04 Server)
   - 1 Futro S920 OpenWRT Router
   - 1 1Gbps Switch
-  - running HomeAssistant & PhotoPrism
+  - running [PiHole](https://pi-hole.net/), [HomeAssistant](https://www.home-assistant.io/), [PhotoPrism](https://www.photoprism.app/)
 - Microcontroller projects
   - STM32
   - Raspberry Pi Pico
