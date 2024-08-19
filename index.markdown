@@ -33,7 +33,7 @@ Also, I'm a big believer in OSS and try to give back to it by either contributin
 
 - 💎 Ruby (★★★★)
 - 🚀 TypeScript/Node.js (★★)
-- 🐘 PHP (prevous experience, outdated)
+- 🐘 PHP (previous experience, outdated)
 - C (★)
 
 ### Frontend (listing previous experience, outdated)
@@ -60,7 +60,7 @@ Also, I'm a big believer in OSS and try to give back to it by either contributin
 
 ### Other Tools & Technologies I use
 
-- Linux (Arch, Ubuntu, Raspberry Pi OS)
+- Linux ([Arch](https://archlinux.org/), [Ubuntu](https://ubuntu.com/), [Raspberry Pi OS](https://www.raspberrypi.com/software/))
 - ZSH (with oh-my-zsh)
 - Neovim
 - Git
