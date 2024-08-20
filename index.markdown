@@ -39,7 +39,7 @@ Also, I'm a big believer in OSS and try to give back to it by either contributin
 ### Frontend (listing previous experience, outdated)
 
 - HTML
-- CSS / SCSS
+- CSS / SCSS / SASS
 - JavaScript (jQuery, Backbone.js)
 
 ### Databases & more
