@@ -63,6 +63,7 @@ Also, I'm a big believer in OSS and try to give back to it by either contributin
 - Linux ([Arch](https://archlinux.org/), [Ubuntu](https://ubuntu.com/), [Raspberry Pi OS](https://www.raspberrypi.com/software/))
 - ZSH (with oh-my-zsh)
 - Neovim
+- VSCode (with [PlatformIO](https://platformio.org/))
 - Git
 - OpenAPI
 
