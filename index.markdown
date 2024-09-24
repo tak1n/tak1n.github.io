@@ -12,11 +12,12 @@ During my whole time working as a developer, I was curious to learn new things w
 
 In addition to reading and (re-)learning the theory, I’m also trying to realize practical home lab projects:
 
-- Home lab "Cluster"
+- Home lab Cluster
   - 1 Rasbperry Pi 5, 2 Fujitsu Futro S920
   - 1 Futro S920 [OpenWRT](https://openwrt.org/) Router
   - 1 1Gbps Switch
-  - running [PiHole](https://pi-hole.net/), [HomeAssistant](https://www.home-assistant.io/), [PhotoPrism](https://www.photoprism.app/)
+  - running [PiHole](https://pi-hole.net/), [HomeAssistant](https://www.home-assistant.io/), [PhotoPrism](https://www.photoprism.app/) through Docker
+  - experimenting with [K3S](https://k3s.io/)
 - Microcontroller projects
   - STM32
   - Raspberry Pi Pico
