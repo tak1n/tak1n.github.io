@@ -62,8 +62,8 @@ Also, I'm a big believer in OSS and try to give back to it by either contributin
 ### Other Tools & Technologies I use
 
 - Linux ([Arch](https://archlinux.org/), [Ubuntu](https://ubuntu.com/), [Raspberry Pi OS](https://www.raspberrypi.com/software/))
-- ZSH (with oh-my-zsh)
-- Neovim
+- ZSH (with [oh-my-zsh](https://ohmyz.sh/))
+- Neovim (with [coc](https://github.com/neoclide/coc.nvim))
 - VSCode (with [PlatformIO](https://platformio.org/))
 - Git
 - OpenAPI
