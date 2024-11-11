@@ -76,6 +76,6 @@ Besides loving to learn about new technologies or gaining more in-depth knowledg
 
 - <a rel="me" href="https://ruby.social/@tak1n">Mastodon</a>
 - [Bluesky](https://bsky.app/profile/tak1n.bsky.social)
-- [LinkedIn](www.linkedin.com/in/benjamin-klotz-91374153)
+- [LinkedIn](https://www.linkedin.com/in/benjamin-klotz-91374153)
 - [Strava](https://www.strava.com/athletes/70701998)
 - Email: benny(dot)klotz92(at)gmail(dot)com, [PGP Public key](https://keys.openpgp.org/vks/v1/by-fingerprint/6343D48AEAD43A083C1959DF7887769DDEFFFE28)
