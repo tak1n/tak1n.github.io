@@ -14,8 +14,13 @@ In addition to reading and (re-)learning the theory, I’m also trying to realiz
 
 - Home lab Cluster
   - 1 Rasbperry Pi 5, 2 Fujitsu Futro S920
-  - 1 Futro S920 [OpenWRT](https://openwrt.org/) Router
-  - 1 1Gbps Switch
+  - NEW ([UniFi](https://www.ui.com/eu/en) based):
+    - 1 Security Gateway Pro (Router/Firewall)
+    - 1 16 Port PoE+ GbE Switch
+    - 1 U7 Pro AP
+  - OLD:
+    - 1 Futro S920 [OpenWRT](https://openwrt.org/) Router
+    - 1 1Gbps Switch
   - running [PiHole](https://pi-hole.net/), [HomeAssistant](https://www.home-assistant.io/), [PhotoPrism](https://www.photoprism.app/) through Docker
   - experimenting with [K3S](https://k3s.io/)
 - Microcontroller projects
